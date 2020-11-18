@@ -9,10 +9,10 @@ import Rank from './components/Rank/Rank';
 const particleOptions = {
   "particles": {
       "number": {
-          "value": 50
+          "value": 100
       },
       "size": {
-          "value": 3
+          "value": 2
       }
   },
   "interactivity": {
